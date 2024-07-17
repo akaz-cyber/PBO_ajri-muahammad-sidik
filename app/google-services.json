@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980222174232",
+    "project_id": "projectbaru-2f2c7",
+    "storage_bucket": "projectbaru-2f2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980222174232:android:1fa57fae47db1c78828f6d",
+        "android_client_info": {
+          "package_name": "com.sttbandung.utspemograman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980222174232-e37dehdj1k3lhs24r6p2bq4do8j79bdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sttbandung.utspemograman",
+            "certificate_hash": "882296c81d367b12ac8a1bcd89e9cb652ebab4fc"
+          }
+        },
+        {
+          "client_id": "980222174232-ahv8a7l8jck3hof53k54l9noh0qf6g51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKTqLewB-38LIixXTrcR5UtUv7bkseL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980222174232-ahv8a7l8jck3hof53k54l9noh0qf6g51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

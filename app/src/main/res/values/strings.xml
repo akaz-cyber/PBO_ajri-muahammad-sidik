@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UTS_Pemograman</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="default_web_client_id">980222174232-ahv8a7l8jck3hof53k54l9noh0qf6g51.apps.googleusercontent.com</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.UTS_Pemograman" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.UTS_Pemograman" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <!-- Customize your light theme here. -->
         <item name="android:windowIsTranslucent">true</item>
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
